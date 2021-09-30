@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "gany",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
